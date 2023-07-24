@@ -3,7 +3,7 @@ A bot that automatically catch fishes and resolve captcha. You will have to only
 
 ---
 
-### Install & Run Tutorial
+### ⬇️ Install & Run Tutorial
 
    1. Download the repository & extract the files in a folder.
    2. Run this in cmd: 
@@ -31,7 +31,7 @@ A bot that automatically catch fishes and resolve captcha. You will have to only
    5. Press space
 ---
 
-### Credits
+### ©️ Credits
    * **Dev1** - (preferred to be anonymous)
    * **Dev2** - [linucswin](https://github.com/linucswin)
 ---
