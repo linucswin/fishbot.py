@@ -6,7 +6,7 @@ A bot that automatically catch fishes and resolve captcha. You will have to only
 ### ⬇️ Install & Run Tutorial
 
    1. Download the repository & extract the files in a folder.
-   2. Run this in cmd: 
+   2. Run this in cmd: `pip install -r requirements.txt`
    3. Run Fishbot.bat
 
 ---
