@@ -11,7 +11,7 @@ A bot that automatically catch fishes and resolve captcha. You will have to only
 
 ---
 
-### ⚙️ Needed packages:
+### ⚙️ Requirements:
 
    ![colorama](https://img.shields.io/badge/colorama-0.4.6-FF6663)<br>
    ![numpy](https://img.shields.io/badge/numpy-1.22.4-FEB144)<br>
